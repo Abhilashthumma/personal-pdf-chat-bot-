@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+PyPDF2
+pypdf
+ollama
+torch
+transformers
+langchain-text-splitters
